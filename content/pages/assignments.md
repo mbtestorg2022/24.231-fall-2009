@@ -9,12 +9,57 @@ Papers
 
 Short papers should be approximately 1200 words, and the final paper should be 2000-2500 words.
 
-| ASSIGNMENTS | FILES |
-| --- | --- |
-| Short paper 1 | ([PDF]({{< baseurl >}}/resources/mit24_231f09_paper1)) |
-| Short paper 2 | ([PDF]({{< baseurl >}}/resources/mit24_231f09_paper2)) |
-| Short paper 3 | ([PDF]({{< baseurl >}}/resources/mit24_231f09_paper3)) |
-| Final paper | ([PDF]({{< baseurl >}}/resources/mit24_231f09_paper4)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit24_231f09_paper1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit24_231f09_paper2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper 3
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit24_231f09_paper3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit24_231f09_paper4))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Presentations
 -------------
@@ -39,13 +84,90 @@ Be organized, be clear, be specific, and be concise. Don't try to tackle too muc
 
 Here is the presentation schedule:
 
-| SES # | TOPICS |
-| --- | --- |
-| 4 | Ayer's "The Emotive Theory of Ethics" |
-| 7 | Foot's "Moral Relativism" |
-| 10 | Lyons's "Ethical Relativism and the Problem of Incoherence" |
-| 11 | Mill's "Utilitarianism" |
-| 12 | Nozick's "The Experience Machine" and Parfit's "What Makes Someone's Life Go Best?" |
-| 13 | Norcross's "Comparing Harms: Headaches and Human Lives" |
-| 15 | Lenman's "Consequentialism and Cluelessness" |
-| 18 | Nagel's "Autonomy and Deontology"
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Ayer's "The Emotive Theory of Ethics"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Foot's "Moral Relativism"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Lyons's "Ethical Relativism and the Problem of Incoherence"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Mill's "Utilitarianism"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Nozick's "The Experience Machine" and Parfit's "What Makes Someone's Life Go Best?"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Norcross's "Comparing Harms: Headaches and Human Lives"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Lenman's "Consequentialism and Cluelessness"
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Nagel's "Autonomy and Deontology"
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

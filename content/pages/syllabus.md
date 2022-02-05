@@ -60,30 +60,232 @@ Plagiarism constitutes serious academic misconduct, and can have severe discipli
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Short paper 1 | 15% |
-| Short paper 2 | 15% |
-| Final paper | 30% |
-| In-class presentation | 10% |
-| Posted questions and comments | 15% |
-| Class attendance and participation | 15% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper 1
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short paper 2
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class presentation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Posted questions and comments
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance and participation
+{{< tdclose >}}
+{{< tdopen >}}
+15%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Calendar" >}}{{< /anchor >}}Calendar
 ------------------------------------------------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| {{< td-colspan 3 >}}**Part I: Meta-ethics**{{< /td-colspan >}} |||
-| 2-3 | Non-naturalism | &nbsp; |
-| 4-5 | Non-cognitivism | Short paper 1 out in Ses #4 |
-| 6-7 | The epistemic problem for cognitivism | &nbsp; |
-| 8-10 | Moral relativism | Short paper 1 due in Ses #8 and short paper 2 out in Ses #10 |
-| {{< td-colspan 3 >}}**Part II: Normative ethics**{{< /td-colspan >}} |||
-| 11-13 | Goodness | &nbsp; |
-| 14-18 | Rightness | Short paper 2 due in Ses #14 and short paper 3 out in Ses #17 |
-| 19-21 | Distributive justice | Short paper 3 due in Ses #21 |
-| {{< td-colspan 3 >}}**Part III: Moral character**{{< /td-colspan >}} |||
-| 22-23 | Virtue | Final paper out in Ses #22 |
-| 24-26 | Free will and moral responsibility | Final paper due in Ses #26
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part I: Meta-ethics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2-3
+{{< tdclose >}}
+{{< tdopen >}}
+Non-naturalism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-5
+{{< tdclose >}}
+{{< tdopen >}}
+Non-cognitivism
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper 1 out in Ses #4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6-7
+{{< tdclose >}}
+{{< tdopen >}}
+The epistemic problem for cognitivism
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-10
+{{< tdclose >}}
+{{< tdopen >}}
+Moral relativism
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper 1 due in Ses #8 and short paper 2 out in Ses #10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part II: Normative ethics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11-13
+{{< tdclose >}}
+{{< tdopen >}}
+Goodness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-18
+{{< tdclose >}}
+{{< tdopen >}}
+Rightness
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper 2 due in Ses #14 and short paper 3 out in Ses #17
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-21
+{{< tdclose >}}
+{{< tdopen >}}
+Distributive justice
+{{< tdclose >}}
+{{< tdopen >}}
+Short paper 3 due in Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**Part III: Moral character**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22-23
+{{< tdclose >}}
+{{< tdopen >}}
+Virtue
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper out in Ses #22
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-26
+{{< tdclose >}}
+{{< tdopen >}}
+Free will and moral responsibility
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper due in Ses #26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
